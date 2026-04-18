@@ -1,5 +1,5 @@
 <!-- Hacker-style banner -->
-<h1 align="center">Hi 👋, I'm [Thivina Abhishek]</h1>
+<h1 align="center">Hi 👋, I'm [Thivina]</h1>
 <h3 align="center">💻 Computer Science Student | 🔐 Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ## 🧠 About Me
 ```bash
 > whoami
-[Your Name]
+[Thivina Abhishek]
 
 > interests
 Cybersecurity | Networking | Linux | Ethical Hacking
