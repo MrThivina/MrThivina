@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Hacker-style banner -->
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">💻 Computer Science Student | 🔐 Cybersecurity Enthusiast</h3>
 
-<!--
-**MrThivina/MrThivina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Learning+Cybersecurity;Future+Ethical+Hacker;Linux+Explorer;Always+Learning..." />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+```bash
+> whoami
+[Your Name]
+
+> interests
+Cybersecurity | Networking | Linux | Ethical Hacking
+
+> current_status
+Learning and building skills in Computer Science & Security
+
+> goal
+Become a Cybersecurity Specialist 💀
